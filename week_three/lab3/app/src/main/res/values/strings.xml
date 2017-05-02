@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="Aaron">Aaron</string>
+    <string name="Elvis">Elvis</string>
+    <string name="David">David</string>
+    <string name="Edwin">Edwin</string>
+    <string name="Frank">Frank</string>
+    <string name="Joshua">Joshua</string>
+    <string name="Ivan">Ivan</string>
+    <string name="Mark">Mark</string>
+    <string name="Joseph">Joseph</string>
+    <string name="Phoebe">Phoebe</string>
+
+    <string name="Aaron_number">17715523654</string>
+    <string name="Elvis_number">18825653224</string>
+    <string name="David_number">15052116654</string>
+    <string name="Edwin_number">18854211875</string>
+    <string name="Frank_number">13955188541</string>
+    <string name="Joshua_number">13621574410</string>
+    <string name="Ivan_number">15684122771</string>
+    <string name="Mark_number">17765213579</string>
+    <string name="Joseph_number">13315466578</string>
+    <string name="Phoebe_number">17895466428</string>
+
+
+    <string name="Aaron_add">江苏苏州电信</string>
+    <string name="Elvis_add">广东揭阳移动</string>
+    <string name="David_add">江苏无锡移动</string>
+    <string name="Edwin_add">山东青岛移动</string>
+    <string name="Frank_add">安徽合肥移动</string>
+    <string name="Joshua_add">江苏苏州移动</string>
+    <string name="Ivan_add">山东烟台联通</string>
+    <string name="Mark_add">广东珠海电信</string>
+    <string name="Joseph_add">河北石家庄电信</string>
+    <string name="Phoebe_add">山东东营移动</string>
+
+    <string name="Aaron_type">手机</string>
+    <string name="Elvis_type">手机</string>
+    <string name="David_type">手机</string>
+    <string name="Edwin_type">手机</string>
+    <string name="Frank_type">手机</string>
+    <string name="Joshua_type">手机</string>
+    <string name="Ivan_type">手机</string>
+    <string name="Mark_type">手机</string>
+    <string name="Joseph_type">手机</string>
+    <string name="Phoebe_type">手机</string>
+</resources>

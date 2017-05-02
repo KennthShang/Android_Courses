@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="Aaron">#BB4C3B</color>
+    <color name="Elvis">#c48d30</color>
+    <color name="David">#4469b0</color>
+    <color name="Edwin">#20A17B</color>
+    <color name="Frank">#BB4C3B</color>
+    <color name="Joshua">#c48d30</color>
+    <color name="Ivan">#4469b0</color>
+    <color name="Mark">#20A17B</color>
+    <color name="Joseph">#BB4C3B</color>
+    <color name="Phoebe">#C48d30</color>
+
+</resources>
