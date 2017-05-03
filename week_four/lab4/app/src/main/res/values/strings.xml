@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="Apple">Apple</string>
+    <string name="Banana">Banana</string>
+    <string name="Cherry">Cherry</string>
+    <string name="Coco">Coco</string>
+    <string name="kiwi">kiwi</string>
+    <string name="Orange">Orange</string>
+    <string name="Pear">Pear</string>
+    <string name="Strawberry">Strawberry</string>
+    <string name="Watermelon">Watermelon</string>
+    <string name="RegisterBroadcast">Register Broadcast</string>
+    <string name="UnregisterBroadcast">Unregister Broadcast</string>
+</resources>
